@@ -1,15 +1,14 @@
 var static = require('node-static');
+var http   = require('http');
+var file   = new static.Server('./public');
 
-//
-// Create a node-static server instance to serve the './public' folder
-//
-var file = new static.Server('./public');
-
-require('http').createServer(function (request, response) {
+var port = process.env.PORT || 8080;
+var server = http.createServer(function (request, response) {
     request.addListener('end', function () {
-        //
-        // Serve files!
-        //
         file.serve(request, response);
     }).resume();
-}).listen(process.env.PORT || 8080);
+}).listen(port);
+
+server.on('listening', function(){
+  console.log('Server listining on: ' + port);
+})
