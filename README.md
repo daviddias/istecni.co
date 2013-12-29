@@ -19,11 +19,10 @@ On irc.freenode.net in the #ISTecnico channel with an IRC client or connect in y
 
 ### Projects list
 
-```text
 How to add a project, you may ask :) Well, the answer is simple, just open 
 a [Pull Request](https://help.github.com/articles/using-pull-requests) to 
 this repo, adding it on this very specific Readme :)
-```
+
 
 --------------
 ##### [bolsas.istecni.co](bolsas.istecni.co)
