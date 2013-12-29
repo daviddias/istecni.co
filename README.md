@@ -25,6 +25,7 @@ a [Pull Request](https://help.github.com/articles/using-pull-requests) to
 this repo, adding it on this very specific Readme :)
 ```
 
+--------------
 ##### [bolsas.istecni.co](bolsas.istecni.co)
 
 A information retrieval system for the IST, UTL student to get notified about new scholarships that are available.
@@ -32,4 +33,9 @@ A information retrieval system for the IST, UTL student to get notified about ne
 * [repo](https://github.com/diasdavid/bolsas.istecni.co)
 * [link](bolsas.istecni.co)
 
-#### 
+--------------
+#### Your project :)
+
+
+--------------
+#### Your project :)
