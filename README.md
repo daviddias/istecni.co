@@ -9,9 +9,6 @@ istecni.co
 ..you know how copy is hard to write... sooon 
 ![horse](http://i0.kym-cdn.com/photos/images/newsfeed/000/117/014/GsE3k.jpg)
 
-#### How to add a project
-
-Just open a [Pull Request](https://help.github.com/articles/using-pull-requests) to this repo, adding it on this very specific Readme :)
 
 
 ### Find us on twitter or on IRC
@@ -23,7 +20,7 @@ On irc.freenode.net in the #ISTecnico channel with an IRC client or connect in y
 
 ### Projects list
 
-```
+```text
 How to add a project, you may ask :) Well, the answer is simple, just open a [Pull Request](https://help.github.com/articles/using-pull-requests) to this repo, adding it on this very specific Readme :)
 ```
 
