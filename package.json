@@ -1,0 +1,31 @@
+{
+  "name": "istecni.co",
+  "version": "0.0.0",
+  "description": "General website for istecni.co",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "mon": "node_modules/.bin/nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ISTecnico/istecni.co.git"
+  },
+  "keywords": [
+    "tecnico",
+    "ist",
+    "hack",
+    "software",
+    "technology",
+    "community"
+  ],
+  "author": "David Dias <daviddias.p@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ISTecnico/istecni.co/issues"
+  },
+  "devDependencies": {
+    "nodemon": "~0.7.10"
+  }
+}
