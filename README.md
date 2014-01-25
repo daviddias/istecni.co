@@ -52,7 +52,12 @@ A information retrieval system for the IST, UTL student to get notified about ne
 * [link](bolsas.istecni.co)
 
 --------------
-#### Your project :)
+
+##### [thesis-project-bootstrap.istecni.co](https://github.com/diasdavid/thesis-project-bootstrap.istecni.co)
+
+A LaTeX project template for your awesome Thesis Project (using Springer theme, requested by IST). This project exists because I simply spent so much time getting my flow just right, thanks to LaTeX peculiarities, I though I could be a good boy and save someone else's time :)
+
+* [repo](https://github.com/diasdavid/thesis-project-bootstrap.istecni.co)
 
 
 --------------
