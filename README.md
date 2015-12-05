@@ -1,7 +1,7 @@
 istecni.co
 ==========
 
-## "Open source projects driven by the [IST](www.ist.utl.pt) community"
+## "Open source projects driven by the [IST](http://ist.utl.pt) community"
 
 
 ### What is this about
@@ -44,12 +44,12 @@ this repo, adding it on this very specific Readme :)
 
 
 --------------
-##### [bolsas.istecni.co](bolsas.istecni.co)
+##### [bolsas.istecni.co](http://bolsas.istecni.co)
 
-A information retrieval system for the IST, UTL student to get notified about new scholarships that are available.
+An information retrieval system for the IST, UTL student to get notified about new scholarships that are available.
 
 * [repo](https://github.com/diasdavid/bolsas.istecni.co)
-* [link](bolsas.istecni.co)
+* [link](http://bolsas.istecni.co)
 
 --------------
 
